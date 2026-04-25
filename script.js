@@ -9,15 +9,15 @@ const catalogo = [
     nota: 9.5,
     assistido: true
   },
- {
-  "id": 3,
-  "titulo": "The Expanse",
-  "tipo": "serie",
-  "ano": 2015,
-  "generos": ["ficção científica", "mistério", "político"],
-  "nota": 8.5,
-  "assistido": false
-}
+  {
+    id: 2,
+    titulo: "Breaking Bad",
+    tipo: "serie",
+    ano: 2008,
+    generos: ["drama", "crime"],
+    nota: 9.7,
+    assistido: true
+  },
   {
     id: 3,
     titulo: "Interestelar",
